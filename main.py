@@ -19,7 +19,7 @@ try:
     tk.iconbitmap('assets/icon.ico')
 except:
     pass
-tk.title("Во имя приника")
+tk.title("Во имя пряника")
 tk["bg"] = "#8e8065"
 
 # Уровни
